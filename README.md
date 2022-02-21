@@ -29,7 +29,7 @@ I just finished my training in web fullstack development (with Symfony for speci
 Moreover, I'm working on a small e-commerce project for my father (full Symfony). 
 
 ### How to find me
-- ![LinkedIn][](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamschmitt1/)
+- ![LinkedIn[](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamschmitt1/)
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) williamschmitt16098877@gmail.com
 
 
