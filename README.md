@@ -23,7 +23,7 @@
 
 ### What I'm doing now
 I just finished my training in web fullstack development (with Symfony for speciality), and I'm looking for an internship of at least 2 months.
-Moreover, I'm working on a small e-commerce project for my dad (full Symfony). 
+Moreover, I'm working on a small e-commerce project for my father (full Symfony). 
 
 ### How to find me
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/williamschmitt1/
