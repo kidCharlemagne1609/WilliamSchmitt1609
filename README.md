@@ -4,7 +4,7 @@
 ### 👋 Hi there I'm a Back-End web developer from :fr:
 
 ### Technologies
-![symfony-logo-AA34C8FC16-seeklogo com](https://user-images.githubusercontent.com/88560991/153674120-6f63bb01-c9e9-43ce-827d-043e33d8cade.png)
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 
 
