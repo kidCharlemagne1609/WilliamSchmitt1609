@@ -1,7 +1,7 @@
 
 ![187399677_3940008319440055_6308803493612146583_n](https://user-images.githubusercontent.com/88560991/153674079-6000da51-6d98-4745-84aa-4a69d6c34232.jpg)
 
-### 👋 Hi there I'm a Back-End web developer from :fr:
+### 👋 Hi there! I'm a Back-End web developer from :fr:
 
 ### Technologies
  #### Back-End:
@@ -20,6 +20,14 @@
 :fr: 
 :uk:
 :es:
+
+### What I'm doing now
+I just finished my training in web fullstack development (with Symfony for speciality), and I'm looking for an internship of at least 2 months.
+Moreover, I'm working on a small e-commerce project for my dad (full Symfony). 
+
+### How to find me
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/williamschmitt1/
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) williamschmitt16098877@gmail.com
 
 
 
