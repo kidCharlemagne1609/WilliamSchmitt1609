@@ -30,7 +30,10 @@ Moreover, I'm working on a small e-commerce project for my father (full Symfony)
 
 ### Hobbies
 - astronomy :milky_way:
-- paleontology :dinosaur:
+- paleontology :dragon:
+- computing :computer:
+- video games :video_game:
+- travels :mount_fuji:
 
 ### How to find me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamschmitt1/)
