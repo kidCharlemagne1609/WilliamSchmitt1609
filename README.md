@@ -4,7 +4,7 @@
 ### 👋 Hi there I'm a Back-End web developer from :fr:
 
 ### Technologies
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+https://img.shields.io/static/v1?label=<LABEL>&message=Hello&color=black
 
 
 
