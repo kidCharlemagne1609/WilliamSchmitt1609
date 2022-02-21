@@ -28,6 +28,10 @@
 I just finished my training in web fullstack development (with Symfony for speciality), and I'm looking for an internship of at least 2 months.
 Moreover, I'm working on a small e-commerce project for my father (full Symfony). 
 
+### Hobbies
+- astronomy :milky_way:
+- paleontology :dinosaur:
+
 ### How to find me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamschmitt1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamschmitt16098877@gmail.com)
