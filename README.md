@@ -27,7 +27,7 @@
 :es:
 
 ### Projects
-(très prochainement en ligne) :gift:
+https://o-kdo.org/ :gift:
 Back-End development and Product Owner role (Scrum methodology in 4 sprints)
 
 ### What I'm doing now
