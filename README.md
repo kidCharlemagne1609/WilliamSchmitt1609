@@ -17,6 +17,7 @@
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  
  #### Collaborative network:
  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilliamSchmitt1609)
@@ -31,8 +32,8 @@ https://o-kdo.org/ :gift:
 Back-End development and Product Owner role (Scrum methodology in 4 sprints)
 
 ### What I'm doing now
-I just finished my training in web fullstack development (with Symfony for speciality), and I'm looking for an internship of at least 2 months.
-Moreover, I'm working on a small e-commerce project for my father (full Symfony). 
+I just finished my training in web fullstack development (with Symfony for speciality), and I'm looking for a work-study (1 week at school/2 weeks in enterprise).
+Moreover, I'm working on a small e-commerce project for my father, Art de chiner (full Symfony) and on my portfolio (Vue 3). 
 
 ### Hobbies
 - astronomy :milky_way:
